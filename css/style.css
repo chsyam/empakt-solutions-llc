@@ -79,7 +79,7 @@ body {
     font-family: "Poppins", sans-serif;
     padding-top: 0px;
     overflow-x: hidden;
-    background: #000244;
+    background: #014D64;
     color: white;
 }
 
@@ -181,7 +181,7 @@ h6 {
     top: 0px;
     left: 0px;
     width: 100%;
-    background-color: #000244;
+    background-color: #014D64;
 }
 
 .header_top {
@@ -203,7 +203,7 @@ h6 {
     top: 0px;
     left: 0px;
     width: 100%;
-    background-color: #022057;
+    background-color: #014D64;
     z-index: 999;
 }
 
@@ -369,7 +369,7 @@ box-shadow: 0 20px 40px 0 rgba(0,0,0,.05);
 
 .menu>ul>li>a {
     text-decoration: none;
-    /* color: #001233; */
+    /* color: #1c97bd; */
     color: #FFF;
     font-size: 15px;
     display: block;
@@ -421,17 +421,17 @@ background-color: #d96511;} */
 
 .menu ul>li:hover>a,
 .menu ul>li>a.active {
-    color: #038086;
+    color: #2E3A43;
 }
 
 #header.fixed2 .menu>ul>li:hover>a,
 #header.fixed2 .menu>ul>li>a.active {
-    color: #038086;
+    color: #2E3A43;
 }
 
 #header.fixed11 .menu>ul>li:hover>a,
 #header.fixed11 .menu>ul>li>a.active {
-    color: #038086;
+    color: #2E3A43;
 }
 
 /* #header.fixed1 .menu ul > li:hover > a, #header.fixed1 .menu ul > li > a.active{color: #d96511;} */
@@ -1259,7 +1259,7 @@ a.enquirenow1:hover:before {
     width: 100%;
     display: block;
     padding: 50px 0 45px;
-    background-color: #001233;
+    background-color: #1c97bd;
     position: relative;
     overflow: hidden;
 }
@@ -1320,14 +1320,14 @@ a.enquirenow1:hover:before {
 }
 
 .aboutsec a:hover {
-    background-color: #2a5195;
+    background-color: #2B3856;
     color: #fff;
-    border-color: #2a5195;
+    border-color: #2B3856;
 }
 
 .aboutsec a.ie {
-    background-color: #2a5195;
-    border-color: #2a5195;
+    background-color: #2B3856;
+    border-color: #2B3856;
 }
 
 .aboutsec a.ie:hover {
@@ -1340,42 +1340,42 @@ a.enquirenow1:hover:before {
 }
 
 .aboutsec1 {
-    background-color: #038086;
+    background-color: #2E3A43;
     margin-top: 0px;
     padding: 100px 0;
 }
 
 .aboutsec h2 span {
-    color: #001233;
+    color: #1c97bd;
 }
 
 .aboutsec1 a {
-    color: #001233;
-    border-color: #001233;
+    color: #1c97bd;
+    border-color: #1c97bd;
     opacity: 1
 }
 
 .aboutsec1 a:hover {
-    background-color: #001233;
+    background-color: #1c97bd;
     color: #fff;
-    border-color: #001233;
+    border-color: #1c97bd;
 }
 
 .aboutsec1 a.ie {
-    background-color: #001233;
-    border-color: #001233;
+    background-color: #1c97bd;
+    border-color: #1c97bd;
     color: #fff;
 }
 
 .aboutsec1 a.ie:hover {
     background-color: transparent;
-    color: #001233
+    color: #1c97bd
 }
 
 /*aboutsec*/
 
 .ourcapabilities {
-    background-color: #001233;
+    background-color: #1c97bd;
     width: 100%;
     display: table;
     position: relative;
@@ -1443,11 +1443,11 @@ a.enquirenow1:hover:before {
 }
 
 .ocmargin1 a:before {
-    background-color: #001233;
+    background-color: #1c97bd;
 }
 
 .ocmargin1 a:hover:before {
-    background-color: #2A5195;
+    background-color: #2B3856;
 }
 
 .ocmargin img {
@@ -1491,7 +1491,7 @@ a.enquirenow1:hover:before {
 
 .topstars {
     text-align: center;
-    color: #001233;
+    color: #1c97bd;
     margin-top: 50px;
     font-size: 24px;
 }
@@ -1533,7 +1533,7 @@ a.enquirenow1:hover:before {
     width: 100%;
     display: block;
     padding: 0px 0 40px;
-    background-color: #038086;
+    background-color: #2E3A43;
     z-index: 9;
     position: relative;
 }
@@ -1548,7 +1548,7 @@ a.enquirenow1:hover:before {
 }
 
 .abouttechg h2 span {
-    color: #001233;
+    color: #1c97bd;
 }
 
 /*section5*/
@@ -2097,7 +2097,7 @@ a.scroll-down-link img {
 
 
 .numberbox {
-    background-color: #038086;
+    background-color: #2E3A43;
     padding: 50px 0 40px;
     width: 100%;
     display: table;
@@ -4064,7 +4064,7 @@ p.big_text {
 
 .cart_bx1 {
     width: 96%;
-    background-color: #001233;
+    background-color: #1c97bd;
     height: 100%;
     padding: 20px;
     top: 0%;
@@ -4303,7 +4303,7 @@ img.deskno {
     position: absolute;
     left: 0;
     top: 0;
-    background-color: #2a5195;
+    background-color: #2B3856;
     content: "";
     opacity: 0.75;
     transition: all 0.3s;
@@ -4378,7 +4378,7 @@ img.deskno {
     height: max-content;
     width: 100%;
     display: table;
-    background-color: #038086;
+    background-color: #2E3A43;
 }
 
 .mainfooter .footer_rows {
@@ -4462,7 +4462,7 @@ a.soc {
     background-color: #fff;
     border-radius: 28px;
     display: inline-block;
-    color: #2a5195;
+    color: #2B3856;
     transition: all 0.3s;
 }
 
@@ -4490,7 +4490,7 @@ a.ftcall:hover {
 
 .innerban1 {
     padding: 150px 0 70px;
-    background: #038086;
+    background: #2E3A43;
     width: 100%;
     display: inline-block;
     text-align: center;
@@ -4502,7 +4502,7 @@ a.ftcall:hover {
 }
 
 .triShape {
-    background: #038086;
+    background: #2E3A43;
 }
 
 .aboutpgbx1,
@@ -4525,7 +4525,7 @@ a.ftcall:hover {
 }
 
 .aboutpgbx1 h2 span {
-    color: #038086;
+    color: #2E3A43;
 }
 
 .aboutpgbx1 p {
@@ -4538,7 +4538,7 @@ a.ftcall:hover {
 }
 
 .aboutpgbx2 {
-    background-color: #038086;
+    background-color: #2E3A43;
     margin-top: 0px;
     padding: 0px 0 50px;
 
@@ -4573,7 +4573,7 @@ a.ftcall:hover {
     position: absolute;
     left: 0;
     top: 0;
-    background-color: #001233;
+    background-color: #1c97bd;
 
     content: "";
     opacity: 0.75;
@@ -4629,7 +4629,7 @@ a.ftcall:hover {
 }
 
 .aboutpgbx3 {
-    background-color: #001233;
+    background-color: #1c97bd;
 }
 
 .aboutpgbx3 h2 {
@@ -4717,7 +4717,7 @@ a.ftcall:hover {
 
 .ab4bx1lt h4 {
     text-transform: uppercase;
-    color: #001233;
+    color: #1c97bd;
     font-family: "Poppins", sans-serif;
     font-size: 28px;
     margin-top: -15px;
@@ -4747,7 +4747,7 @@ a.ftcall:hover {
 
 .ourstorypgbx2 {
     padding: 0px 0 100px;
-    background-color: #001233;
+    background-color: #1c97bd;
     width: 100%;
     display: block;
     position: relative;
@@ -4838,7 +4838,7 @@ a.ftcall:hover {
 }
 
 .whychoosebx1 {
-    background-color: #001233;
+    background-color: #1c97bd;
     margin-top: 0px;
     padding: 0px 0 70px;
 
@@ -4901,7 +4901,7 @@ a.ftcall:hover {
 }
 
 .contractingstaffpgbx2 {
-    background-color: #038086;
+    background-color: #2E3A43;
     margin-top: 0px;
     padding-bottom: 100px;
     width: 100%;
@@ -4987,7 +4987,7 @@ input.subres {
     font-weight: 500;
     border: 0px;
     border-radius: 0;
-    background-color: #001233;
+    background-color: #1c97bd;
     transition: all 0.3s;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -5050,7 +5050,7 @@ input.subres:hover {
 }
 
 .employerspgbx222 p {
-    color: #001233;
+    color: #1c97bd;
 }
 
 .abouttechginner .topstars {
@@ -5090,7 +5090,7 @@ input.subres:hover {
     font-size: 18px;
     display: table;
     vertical-align: middle;
-    background-color: #2a5195;
+    background-color: #2B3856;
     min-height: 92px;
     width: 100%;
     pointer-events: none;
@@ -5167,9 +5167,9 @@ a.jobanch:hover .jobanchdet {
 }
 
 .jobanchdet p {
-    padding: 30px;
+    padding: 5px 30px;
     font-size: 19px;
-    color: #001233;
+    color: #1c97bd;
     text-align: left;
     line-height: 32px;
 }
@@ -5431,7 +5431,7 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .single-blog .content .blog-btn {
-    color: #2A5195;
+    color: #2B3856;
     font-weight: 600;
     transition: 0.5s;
     text-transform: uppercase;
@@ -5443,7 +5443,7 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .single-blog:hover .image .tag {
-    background-color: #000244;
+    background-color: #014D64;
 }
 
 .single-blog:hover h3 a {
@@ -5559,7 +5559,7 @@ a.jcolor4 .jobanchdet h4 {
 
 .subscribebox h2 {
     text-transform: uppercase;
-    color: #038086;
+    color: #2E3A43;
     text-align: center;
     font-size: 42px;
     letter-spacing: 3px;
@@ -5576,13 +5576,13 @@ a.jcolor4 .jobanchdet h4 {
 .subscribebox form input.subinput1 {
     height: 70px;
     border-radius: 10px;
-    color: #038086;
+    color: #2E3A43;
     width: 100%;
     padding: 0 200px 0 50px;
     font-size: 20px;
     letter-spacing: 2px;
     outline: none;
-    border: 1px solid #038086;
+    border: 1px solid #2E3A43;
 }
 
 .subscribebox form input.subsub {
@@ -5598,7 +5598,7 @@ a.jcolor4 .jobanchdet h4 {
     border: 0;
     border-radius: 10px;
     transition: all 0.3s;
-    background-color: #038086;
+    background-color: #2E3A43;
 }
 
 .newsmainimg {
@@ -5661,7 +5661,7 @@ a.jcolor4 .jobanchdet h4 {
 
 .newsdescription a:hover {
     color: #fff;
-    background-color: #001233;
+    background-color: #1c97bd;
 }
 
 */
@@ -5708,7 +5708,7 @@ a.jcolor4 .jobanchdet h4 {
 
 .contadd1 p {
     font-size: 19px;
-    color: #001233;
+    color: #1c97bd;
     line-height: 32px;
 }
 
@@ -5805,15 +5805,15 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .co {
-    color: #001233 !important;
+    color: #1c97bd !important;
 }
 
 .co1 {
-    background-color: #038086 !important;
+    background-color: #2E3A43 !important;
 }
 
 .co2 {
-    background-color: #038086 !important;
+    background-color: #2E3A43 !important;
 }
 
 .co3 {
@@ -5843,7 +5843,7 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .dadada8 {
-    background-color: #2a5195;
+    background-color: #2B3856;
     top: 88%;
 }
 
@@ -6041,7 +6041,7 @@ a.jcolor4 .jobanchdet h4 {
     .bannercontbx1 {
         position: relative;
         padding: 20px;
-        background-color: #001233;
+        background-color: #1c97bd;
     }
 
     .bannercontbx1 .col-sm-6 {
