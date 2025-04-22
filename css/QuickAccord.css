@@ -25,7 +25,7 @@ ul.quickacc>li>a {
   border-radius: 0px;
   text-decoration: none;
   /* border-top: 1px solid #ec0345; */
-  background-color: #2B3856;
+  background-color: #1C97BD;
   font-weight: 500;
   outline: 0px;
   padding-right: 30px;
@@ -101,7 +101,7 @@ ul.quickacc>li>a span {
 
 ul.quickacc>li>a.expanded {
   border-bottom: 0;
-  background-color: #2B3856;
+  background-color: #1C97BD;
   color: #fff;
 }
 

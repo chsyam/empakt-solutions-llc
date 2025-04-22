@@ -421,17 +421,17 @@ background-color: #d96511;} */
 
 .menu ul>li:hover>a,
 .menu ul>li>a.active {
-    color: #2E3A43;
+    color: #1C97BD;
 }
 
 #header.fixed2 .menu>ul>li:hover>a,
 #header.fixed2 .menu>ul>li>a.active {
-    color: #2E3A43;
+    color: #1C97BD;
 }
 
 #header.fixed11 .menu>ul>li:hover>a,
 #header.fixed11 .menu>ul>li>a.active {
-    color: #2E3A43;
+    color: #1C97BD;
 }
 
 /* #header.fixed1 .menu ul > li:hover > a, #header.fixed1 .menu ul > li > a.active{color: #d96511;} */
@@ -1320,14 +1320,14 @@ a.enquirenow1:hover:before {
 }
 
 .aboutsec a:hover {
-    background-color: #2B3856;
+    background-color: #1C97BD;
     color: #fff;
-    border-color: #2B3856;
+    border-color: #1C97BD;
 }
 
 .aboutsec a.ie {
-    background-color: #2B3856;
-    border-color: #2B3856;
+    background-color: #1C97BD;
+    border-color: #1C97BD;
 }
 
 .aboutsec a.ie:hover {
@@ -1447,7 +1447,7 @@ a.enquirenow1:hover:before {
 }
 
 .ocmargin1 a:hover:before {
-    background-color: #2B3856;
+    background-color: #1C97BD;
 }
 
 .ocmargin img {
@@ -4303,7 +4303,7 @@ img.deskno {
     position: absolute;
     left: 0;
     top: 0;
-    background-color: #2B3856;
+    background-color: #1C97BD;
     content: "";
     opacity: 0.75;
     transition: all 0.3s;
@@ -4462,7 +4462,7 @@ a.soc {
     background-color: #fff;
     border-radius: 28px;
     display: inline-block;
-    color: #2B3856;
+    color: #1C97BD;
     transition: all 0.3s;
 }
 
@@ -5090,7 +5090,7 @@ input.subres:hover {
     font-size: 18px;
     display: table;
     vertical-align: middle;
-    background-color: #2B3856;
+    background-color: #1C97BD;
     min-height: 92px;
     width: 100%;
     pointer-events: none;
@@ -5431,7 +5431,7 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .single-blog .content .blog-btn {
-    color: #2B3856;
+    color: #1C97BD;
     font-weight: 600;
     transition: 0.5s;
     text-transform: uppercase;
@@ -5843,7 +5843,7 @@ a.jcolor4 .jobanchdet h4 {
 }
 
 .dadada8 {
-    background-color: #2B3856;
+    background-color: #1C97BD;
     top: 88%;
 }
 
